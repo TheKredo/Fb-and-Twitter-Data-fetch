@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Social Profile Exp</string>
+    <string name="facebook_app_id">1304351282947337</string>
+    <string name="facebook_app_secret">c6d697ee7fb632e805fc4f2cbcd70b9e</string>
+    <string name="twitter_app_id">2d2zgPJUHmWQd5F2UJESGLq8V</string>
+    <string name="twitter_app_secret">hSH9yyEiwomZKjMaCqwH2vWOMxUGS7KVdeTwXAU0T4SpsStgRj</string>
+</resources>
